@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1580134355 source:e:\7° semestre\pruebas aux\pr23\main.cpp
+	<iostream>
+	"Documento.h"
+	"Libro.h"
+	"Revista.h"
+
+1580132891 source:e:\7° semestre\pruebas aux\pr23\documento.cpp
+	"Documento.h"
+	<iostream>
+	<string.h>
+
+1580132716 e:\7° semestre\pruebas aux\pr23\documento.h
+
+1580133807 e:\7° semestre\pruebas aux\pr23\libro.h
+	"Documento.h"
+
+1580133789 source:e:\7° semestre\pruebas aux\pr23\libro.cpp
+	"Libro.h"
+	"Documento.h"
+	<iostream>
+	<string.h>
+
+1580134084 e:\7° semestre\pruebas aux\pr23\revista.h
+	"Documento.h"
+
+1580134332 source:e:\7° semestre\pruebas aux\pr23\revista.cpp
+	"Revista.h"
+	"Documento.h"
+	<iostream>
+	<string.h>
+
+1580132891 source:e:\7° semestre\pruebas aux\herencia\documento.cpp
+	"Documento.h"
+	<iostream>
+	<string.h>
+
+1580132716 e:\7° semestre\pruebas aux\herencia\documento.h
+
+1580133789 source:e:\7° semestre\pruebas aux\herencia\libro.cpp
+	"Libro.h"
+	"Documento.h"
+	<iostream>
+	<string.h>
+
+1580133807 e:\7° semestre\pruebas aux\herencia\libro.h
+	"Documento.h"
+
+1580134608 source:e:\7° semestre\pruebas aux\herencia\proyecto.cpp
+	"Proyecto.h"
+	"Documento.h"
+	<iostream>
+	<string.h>
+
+1580134446 e:\7° semestre\pruebas aux\herencia\proyecto.h
+	"Documento.h"
+
+1580134332 source:e:\7° semestre\pruebas aux\herencia\revista.cpp
+	"Revista.h"
+	"Documento.h"
+	<iostream>
+	<string.h>
+
+1580134084 e:\7° semestre\pruebas aux\herencia\revista.h
+	"Documento.h"
+
+1585001394 source:e:\7° semestre\pruebas aux\herencia\main.cpp
+	<iostream>
+	"Documento.h"
+	"Libro.h"
+	"Revista.h"
+	"Proyecto.h"
+
